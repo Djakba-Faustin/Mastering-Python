@@ -4,7 +4,7 @@ A beginner-friendly, hands-on learning notebook that teaches core Python concept
 
 ## Contents
 
-- `learnin.ipynb` — Main learning notebook with chapters and runnable examples.
+- `learnin.ipynb`  Main learning notebook with chapters and runnable examples.
   - 1. Introduction to Python (why learn Python, installation, running scripts, IDEs)
   - 2. Data Structures & Operators (numbers, strings, lists, tuples, sets, dicts, bytes, None)
   - 3. Loops & Control Structures (for, while, break/continue/pass, if/elif/else)
