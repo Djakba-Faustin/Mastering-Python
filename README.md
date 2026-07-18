@@ -1,6 +1,6 @@
 # Mastering Python
 
-A beginner-friendly, hands-on learning notebook that teaches core Python concepts with examples and exercises. This repository contains a Jupyter Notebook (`learnin.ipynb`) that walks through installation, basic syntax, data types, control flow, functions, object-oriented programming, and other fundamentals. Intended for learning and practice — work in progress.
+A beginner-friendly, hands-on learning notebook that teaches core Python concepts with examples and exercises. This repository contains a Jupyter Notebook (`learnin.ipynb`) that walks through installation, basic syntax, data types, control flow, functions, object-oriented programming, and other fundamentals. Intended for learning and practice,  work in progress.
 
 ## Contents
 
@@ -70,7 +70,7 @@ If you prefer not to run locally, GitHub will render the notebook so you can rea
 
 ## Status
 
-Work in progress — the notebook is actively being written and improved. Some sections include examples and outputs; others need content or polishing (notably some tables and exercises).
+Work in progress, the notebook is actively being written and improved. Some sections include examples and outputs; others need content or polishing (notably some tables and exercises).
 
 ## Contributing
 
@@ -85,9 +85,3 @@ Please keep changes focused and include brief descriptions for pull requests.
 
 No license included yet. If you want, I can add a license file (MIT is a common choice for educational material). Tell me which license you'd prefer.
 
----
-
-What I did and next steps
-
-- I read the repository and found one top-level file: `learnin.ipynb`. I used its headings and content to create the README above, cleaned up wording, and organized a clear Quick start and Contents section.
-- Next, I can help populate the notebook's unfinished table of contents, add exercises, or add a license file.
